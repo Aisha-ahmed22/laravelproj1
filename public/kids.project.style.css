@@ -1,0 +1,119 @@
+.img1{width: 100%; }
+.img2{width: 100%; }
+.img3{width: 100%; }
+.img4{width: 100%; }
+.nav2{background-color: orange;}
+.collapse navbar-collapse{background-color: orange;}
+.navbar-nav mr-auto mt-2 mt-lg-0{background-color: orange;}
+.head{text-align: center; padding: 50px;color: #3a6f8f; padding-bottom: 30px}
+.head-p{text-align: center; color: #3a6f8f;}
+
+.div1{background: url(images/newborn2.jpg);
+    background-position: center; background-size: cover;background-repeat: no-repeat;height: 400px;color: white}
+
+
+.div2{background: url(images/newborn1.jpg);
+    background-position: center; background-size: cover;background-repeat: no-repeat;height: 400px;color: white}
+
+
+.div3{background: url(images/p4.jpg);
+    background-position: center; background-size: cover;background-repeat: no-repeat;height: 400px; color: white}
+
+.div4{background: url(images/p5.jpg);
+   background-position: center; background-size: cover;background-repeat: 
+    no-repeat;height: 400px;color: white}
+
+
+footer{
+	width: 100%;padding:3rem;margin:3rem;
+	height:260px;border-top-color: orange;border-top-style:double;
+	line-height: 20px;background-color: white}
+.h55 {padding-left: 40px;}
+
+.footer .col {width: 25%;	float: left;}
+
+.footer .col i{color: orange;width: 3.75remt; padding: 20px;display:inline-block}
+
+
+.footer  .copyright{padding-top :140px;float:right}
+
+
+
+/*.div-ul{
+	float: left;
+    padding: 40px 90px;margin-left: 90px;padding-bottom:40px;
+border-color: orange!important;
+text-align: left;}*/
+
+.nav1 {height: 150px}
+.nav2{background-color: orange;}
+
+.button2{margin-left: 20rem!important;text-align: center;align-items: center;margin-bottom: 50px;margin-top: 30px}
+
+.card-title{text-align: center;}
+
+.nav_cart{position: relative;left: 87rem;color: orange;float: right;margin-top: 1.5rem}
+
+.map1{margin-left: 220px;margin-top: 50px}
+.map2{margin-left: 220px;margin-top: 50px}
+.map3{margin-left: 220px;margin-top: 50px}
+/*.icons{color: orange; margin-left: 900px;padding-top: 100px!important;margin-top: 100px;margin-right: 50px}
+*/
+.fa-map-marker-alt{width: 30px}
+.location{color: white!important ;float: right;margin-right: 7.5rem;}
+/*.i{width: 50px;;float: right}*/
+.b{background-color: white; background:  rounded pill;line-height: 20px!important;font-size: 15px!important;margin-top: 200px!important;color: orange!important;}
+.category{color: orange}
+.footer-links{color:orange; font-size: 12px;list-style-type: none!important;text-align: left;padding-left: 0px}
+ul > li
+{
+    list-style-type: none;
+
+}
+
+.jumbotron{background-color: #f97298!important;width : 100%}
+.lang{direction: rtl}
+.register{margin-left:1200px; float: right;}
+
+/*nav dropdown*/
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  float: right;
+  border-radius: 8px;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
